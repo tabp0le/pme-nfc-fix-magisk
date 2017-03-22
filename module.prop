@@ -1,7 +1,7 @@
 id=pme-nfc-fix-magisk
 name=HTC 10 NFC Fix
-version=test-0.2
-versionCode=2
+version=test-0.3
+versionCode=3
 author=tabp0le
 description=Fixes NFC on LineageOS for HTC 10
 template=3
